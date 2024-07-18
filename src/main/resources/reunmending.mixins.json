@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.teampotato.reunmending.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "reunmending.refmap.json",
+  "mixins": [],
+  "client": [
+    "AnvilScreenMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
